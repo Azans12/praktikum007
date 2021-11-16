@@ -6,10 +6,10 @@ menggunakan statement if. <P>
 
 ini adalah tampilan programnya <p>
 
-![gambar1]screenshoot/screenshoot1.png
+![gambar1](screenshoot/screenshoot1.png)
 ini adalah tampilan hasil running <p>
 
-![gambar]screenshoot/screenshoot2.png
+![gambar](screenshoot/screenshoot2.png)
 
 Latihanke1b <p>
 Buat program untuk mengurutkan data berdasarkan input sejumlah
@@ -18,36 +18,36 @@ hasilnya secara berurutan mulai dari data terkecil. <p>
 
 ini adalah tampilan programnya <p>
 
-![gambar]screenshoot/screenshoot3.png
+![gambar](screenshoot/screenshoot3.png)
 
 ini adalah tampilan hasil running <p>
 
-![gambar]screenshoot/screenshoot4.png
+![gambar](screenshoot/screenshoot4.png)
 
 Latihanke2a <p>
 Buat program dengan perulangan bertingkat (nested) for. <p>
 
 Inilah tampilan programnya <p>
 
-![gambar]screenshoot/screenshoot5.png
+![gambar](screenshoot/screenshoot5.png)
 
 ini adalah tampilan setelah running <p>
 
-![gambar]screenshoot/screenshoot6.png
+![gambar](screenshoot/screenshoot6.png)
 
 Latihanke2b <p>
 
 Tampilkan n bilangan acak yang lebih kecil dari 0.5. <p>
 ini adalah tampilan programnya <p>
 
-![gambar]screenshoot/screenshoot7.png
+![gambar](screenshoot/screenshoot7.png)
 
 nilai n diisi pada saat runtime <p>
 
 
 ini adalah tampilan setelah nilai n diisi <p>
 
-![gambar]screenshoot/screenshoot8.png
+![gambar](screenshoot/screenshoot8.png)
 
 #### labspy02
 1.Buat repository dengan nama labspy02 <p>
@@ -61,37 +61,37 @@ ini adalah tampilan setelah nilai n diisi <p>
 FLOWCHART <p>
 Menentukan nilai terbesar dari tiga bilangan <p>
 
-![gambar]screenshoot/screenshoot9.png
+![gambar](screenshoot/screenshoot9.png)
 
 ini adalah programnya <p>
 
-![gambar]screenshoot/screenshoot10.png
+![gambar](screenshoot/screenshoot10.png)
 
 ini adalah tampilan setelah run dan setelah nilai dimasukkan <p>
 
-![gambar]screenshoot/screenshoot11.png
+![gambar](screenshoot/screenshoot11.png)
 
 ##### Praktikum 3
 program3Latihanke1 <p>
 Tampilkan n bilangan acak yang lebih kecil dari 0.5. <p>
 Ini programnya <p>
 
-![gambar]screenshoot/screenshoot12.png
+![gambar](screenshoot/screenshoot12.png)
 
 Ini hasil eksekusinya, stelah nilai n diinput. <p>
 
-![gambar]screenshoot/screenshoot13.png
+![gambar](screenshoot/screenshoot13.png)
 
 programLatihanke2 <p>
 Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
 Masukkan angka 0 untuk berhenti. <p>
 Ini programnya <p>
 
-![gambar]screenshoot/screenshoot14.png
+![gambar](screenshoot/screenshoot14.png)
 
 tampilan setelah program dieksekusi, input beberapa angka atau bilangan secara acak. <p>
 
-![gambar]screenshoot/screenshoot15.png
+![gambar](screenshoot/screenshoot15.png)
 
 praktikum3Program 1 <p>
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
@@ -102,9 +102,9 @@ keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 
 bulan berjalan usahanya. <p>
 Program1.py <p>
 
-![gambar]screenshoot/screenshoot16.png
+![gambar](screenshoot/screenshoot16.png)
 
 Hasil eksekusi, total keuntungan yang diperoleh selama 8 bulan. <p>
 
-![gambar]screenshoot/screenshoot17.png
+![gambar](screenshoot/screenshoot17.png)
 
